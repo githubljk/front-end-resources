@@ -10,6 +10,7 @@
 
 * [React技术揭秘](https://react.iamkasong.com/)
 
+*[React 源码学习]（https://react.iamkasong.com/process/fiber-mental.html#%E4%BB%80%E4%B9%88%E6%98%AF%E4%BB%A3%E6%95%B0%E6%95%88%E5%BA%94）
 ## 有关框架
 
 * [Next.js：轻量级的 React 服务端渲染应用框架](http://nextjs.frontendx.cn/)
